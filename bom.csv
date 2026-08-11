@@ -1,7 +1,7 @@
 ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,Link
 1,BAT-HLD-001,BT1,BAT-SMD_BAT-HLD-001,1,BAT-HLD-001-TR,TE Connectivity,Digikey,4876924,1.133,3,https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-001-TR/4876924
 2,100nF,C1,C0805,1,CL21B104KBCNNNC,Samsung Electro-Mechanics,Digikey,3886661,0.004,2,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661
-3,YLED0805YG,"U1,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18",LED0805-R-RD,12,,,Amazon,,4.99,2,https://www.amazon.com/dp/B09XB62ST5
+3,YLED0805YG,"U1,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18",LED0805-R-RD,12,,AEDIKO,Amazon,,4.99,2,https://www.amazon.com/dp/B09XB62ST5
 4,68,"U2,U3,U4,U5",R0805,4,CRCW080568R0FKEAC,Vishay Dale,Digikey,7922338,0.339,2,https://www.digikey.com/en/products/detail/vishay-dale/CRCW080568R0FKEAC/7922338
 5,10k,U6,R0805,1,RC0805FR-0710KL,Yageo,Digikey,727535,0.339,2,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535
 6,ATTINY85-20SUR,U7,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,1,ATTINY85-20SUR,Microchip,Digikey,2357441,2.929,8,https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SUR/2357441
