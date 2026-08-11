@@ -25,3 +25,6 @@ Charlieplexing drives 12 LEDs off 4 GPIO pins by using logic gates of the pins, 
 | U2-U5 | 68 ohm 0805 resistor | 4 | $0.339 | [Digikey](https://www.digikey.com/en/products/detail/vishay-dale/CRCW080568R0FKEAC/7922338) |
 | U6 | 10k 0805 resistor | 1 | $0.339 | [Digikey](https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535) |
 | U7 | ATtiny85-20SUR | 1 | $2.929 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SUR/2357441) |
+
+
+<img width="1616" height="989" alt="image" src="https://github.com/user-attachments/assets/4d290d1e-d1c5-4476-85d5-c51d070aeb75" />
