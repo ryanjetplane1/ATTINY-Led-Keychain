@@ -1,6 +1,7 @@
 # ATTINY-Led-Keychain
 
-Coin cell powered LED keychain. 12 LEDs charlieplexed off an ATtiny85, driven by 4 GPIO pins instead of 12.
+A LED display badge using only SMD parts powered by a coin cell. 12 LEDs charlieplexed off an ATtiny85, driven by 4 GPIO pins instead of 12.
+<img width="1616" height="989" alt="image" src="https://github.com/user-attachments/assets/4d290d1e-d1c5-4476-85d5-c51d070aeb75" />
 
 ## Hardware
 
@@ -27,4 +28,3 @@ Charlieplexing drives 12 LEDs off 4 GPIO pins by using logic gates of the pins, 
 | U7 | ATtiny85-20SUR | 1 | $2.929 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SUR/2357441) |
 
 
-<img width="1616" height="989" alt="image" src="https://github.com/user-attachments/assets/4d290d1e-d1c5-4476-85d5-c51d070aeb75" />
