@@ -14,7 +14,7 @@ A LED display badge using only SMD parts powered by a coin cell. 12 LEDs charlie
 
 ## How it works
 
-Charlieplexing drives 12 LEDs off 4 GPIO pins by using logic gates of the pins, high, low, and polarity. Firmware cycles through the lines fast enough that persistence of vision makes it look like several LEDs are on at once.
+Charlieplexing drives 12 LEDs off 4 GPIO pins by using logic gates of the pins, high, low, and polarity. The chip cycles through the lines fast enough that it look like several LEDs are on at once.
 
 ## BOM
 
