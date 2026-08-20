@@ -7,7 +7,7 @@ A LED display badge using a mix of SMD and DIP parts powered by a coin cell. 12 
 
 ## Hardware
 
-- ATtiny85-DIP8, SOIC-8
+- ATtiny85-20PU, SOIC-8
 - 12x LED0805 yellow-green LEDs, charlieplexed in a 4x3 grid
 - 4x 68 ohm series resistors on the charlieplex lines
 - 10k pull-up on RESET
@@ -28,6 +28,6 @@ Only one LED can actually be lit at a time this way, so the chip cycles through 
 | U1, U8-U18 | YLED0805YG LED | 12 | $4.99 | [Amazon](https://www.amazon.com/dp/B09XB62ST5) |
 | U2-U5 | 68 ohm 0805 resistor | 4 | $0.339 | [Digikey](https://www.digikey.com/en/products/detail/vishay-dale/CRCW080568R0FKEAC/7922338) |
 | U6 | 10k 0805 resistor | 1 | $0.339 | [Digikey](https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535) |
-| U7 | ATtiny85-DIP8 | 1 | $2.929 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SUR/2357441) |
+| U7 | ATTINY85-20PU | 1 | $2.929 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20SUR/2357441) |
 
 
