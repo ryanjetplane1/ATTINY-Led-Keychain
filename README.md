@@ -1,7 +1,8 @@
 # ATTINY-Led-Keychain
 
 A LED display badge using only SMD parts powered by a coin cell. 12 LEDs charlieplexed off an ATtiny85, driven by 4 GPIO pins instead of 12.
-<img width="1533" height="1001" alt="image" src="https://github.com/user-attachments/assets/c8b32240-7568-44cb-9cdc-8440517f2188" />
+<img width="1457" height="978" alt="image" src="https://github.com/user-attachments/assets/7b7fa76e-f64e-465a-84b3-e68c76fcea5d" />
+
 
 
 ## Hardware
