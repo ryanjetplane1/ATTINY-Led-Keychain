@@ -30,4 +30,6 @@ Only one LED can actually be lit at a time this way, so the chip cycles through 
 | U6 | 10k 0805 resistor | 1 | $0.339 | [Digikey](https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535) |
 | U7 | ATTINY85-20PU | 1 | $1.66 | [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/ATTINY85-20PU/735469) |
 
+Heres a photo of the final build.
+<img width="2048" height="1536" alt="IMG_9068" src="https://github.com/user-attachments/assets/cf56e464-c30a-4935-9149-4ba430aa5ae4" />
 
