@@ -2,6 +2,7 @@
 
 A LED display badge using a mix of SMD and DIP parts powered by a coin cell. 12 LEDs charlieplexed off an ATtiny85, driven by 4 GPIO pins instead of 12.
 <img width="1457" height="978" alt="image" src="https://github.com/user-attachments/assets/7b7fa76e-f64e-465a-84b3-e68c76fcea5d" />
+<img width="1720" height="903" alt="image" src="https://github.com/user-attachments/assets/f8ce1924-0dae-4a0a-96e5-a7bd96d96b01" />
 
 
 
