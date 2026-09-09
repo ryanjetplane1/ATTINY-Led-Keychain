@@ -32,4 +32,4 @@ Only one LED can actually be lit at a time this way, so the chip cycles through 
 
 Heres a photo of the final build.
 <img width="2048" height="1536" alt="IMG_9068" src="https://github.com/user-attachments/assets/cf56e464-c30a-4935-9149-4ba430aa5ae4" />
-
+You can find a demo video at https://youtu.be/Yd-Kx_JBXS8
